@@ -20,7 +20,7 @@ function Page() {
         endpoint:
           'https://mainnet.helius-rpc.com/?api-key=c40259bd-4eed-4f21-bf80-d4d08af5a019',
         strictTokenList: false,
-        defaultExplorer: 'SolanaFM',
+        defaultExplorer: 'Solana Explorer',
         formProps: {
           initialAmount: '0',
           initialInputMint: 'So11111111111111111111111111111111111111112',
