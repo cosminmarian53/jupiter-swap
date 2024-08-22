@@ -31,12 +31,6 @@ npm install
 npm run dev
 ```
 
-## Apps
-
-### web
-
-To access the swap implementation go to localhost:3000/swap
-
 #### Commands
 
 Start the web app
